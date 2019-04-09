@@ -1,7 +1,7 @@
 # Statistical Dependency Parser
 
 To use the parser, please run main.py in terminal.
-There are two models already traind (model_en, model_de), in order to use them please follow the instruction below.
+The parser is designed to trained by the CONLL file, in order to use them please follow the instruction below.
 
 
 -------------Manual---------------
